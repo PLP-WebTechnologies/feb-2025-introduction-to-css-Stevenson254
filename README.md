@@ -25,5 +25,4 @@ Margins, paddings, and borders.
  - Link an external CSS file.
  - Apply at least 3 different selectors.
  - Improve readability and aesthetics.
-
 Happy Coding! 💻✨
